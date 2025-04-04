@@ -30,25 +30,6 @@ The landing page consists of:
 - `styles.css` - All styling and responsive design rules
 - `script.js` - JavaScript for interactive elements
 
-## How to Use
-
-1. Upload all files to your web server
-2. Link the competition page from your main website menu or homepage banner
-3. Update any placeholder content:
-   - Replace "INSERT END DATE" with the actual competition end date
-   - Replace "INSERT DATE" with the winner announcement date
-   - Replace any other placeholder text marked with "INSERT"
-   - Update with your actual Fidelity Fund Certificate Number
-
-## Customization
-
-You can easily customize this page by:
-
-- Updating the color variables in the CSS `:root` section
-- Changing the background images
-- Adding or removing FAQ items
-- Modifying the form fields
-
 ## Design Notes
 
 - The design uses Ayesha's brand colors (navy blue and red)
